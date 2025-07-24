@@ -101,6 +101,9 @@
     gap: 30px;
     place-items: center;
 }
+    .sponser img{
+        width: 50%;
+    }
 }
 
 /* collection-card styles */
